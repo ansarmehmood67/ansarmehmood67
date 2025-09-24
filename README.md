@@ -64,8 +64,3 @@ I build production React frontends and Django backends with real deployments, SE
 
 
 
-> Pin these via **Profile → Customize your pins**.
-
----
-
-<sub>Tip: if any image above doesn’t load, refresh once—they’re dynamic cards.</sub>
