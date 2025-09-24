@@ -17,14 +17,14 @@
 ---
 
 ### About me
-I build production React frontends and Django backends with real deployments, SEO, and analytics.  
-**Now:** Sales On Demand (Italy, remote) — web platform + GPT/WhatsApp onboarding.
+I’m a full-stack software developer who ships production-grade web applications and internal tools. My strengths are modern React frontends (TypeScript, Tailwind) and reliable Django/REST backends, with a focus on clean UX, performance (Core Web Vitals), analytics, and SEO where it matters. I build for outcomes—faster pages, clearer funnels, and maintainable code.
 
-- ⚙️ Tech: React, TypeScript, Tailwind, Django, PostgreSQL, GA4, Shopify, Meta Cloud API (WhatsApp)
-- 🌱 Learning: CI/CD on GitHub Actions, advanced SEO + Core Web Vitals
-- 💬 Ask me about: WhatsApp automation, SEO for React sites, Django admin tricks
+- **Current:** Sales On Demand (Italy, remote) — building and improving web platforms used in commercial operations.
+- **Range:** SaaS dashboards, e-commerce/marketing sites, admin portals, automation & integrations.
+- **Tech I use daily:** React, TypeScript, Tailwind · Python, Django, REST APIs · PostgreSQL/MySQL · Node/Express · GA4 · Git/GitHub · AWS EC2 · Docker (basic).
+- **Learning:** Artificial Intelligence & Machine Learning — ML fundamentals (scikit-learn, tree-based models), data pipelines, and LLM application patterns (OpenAI API, retrieval, evaluation, agents).
+- **Interests:** Design systems, Core Web Vitals, product analytics, and shipping features with measurable impact.
 
----
 
 ### GitHub Stats
 <p align="center">
